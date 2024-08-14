@@ -4,4 +4,4 @@ Setting up env
 2. ```virtualenv env```<br>
 3. ```cd env/Scripts```<br>
 4. ```./active```<br>
-5. ```cd ./root```<br>
+5. ```return to folder root path```<br>
